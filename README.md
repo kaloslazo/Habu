@@ -10,9 +10,11 @@ Experience the minimalist design of Neovim's dashboard in your browser with Habu
 
 ## ✋ Prerequisites
 
-### Development
+If you're planning to improve or delete features you must look at the following guide that explains you how to get started.
 
-### Production
+1. Install packages, this starter page was created using Tailwindcss and custom plugins for catppuccin palette, so you must install it, do `npm install`.
+2. After dependencies are installed, you can run the script defined in the package.json as `habu:build_tailwind`. This will refresh in real times your changes using a web server.
+3. If you're done, just upload the `app` folder to your hosting or create a image container.
 
 ## 🐋 Docker Selfhost
 
