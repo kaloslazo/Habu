@@ -4,6 +4,7 @@
 Experience the minimalist design of Neovim's dashboard in your browser with Habu. This startpage for Firefox blends the efficient layout of a developer's environment with the warm and inviting Catppuccin color palette. Simple to set up and fully customizable, Habu transforms your new tab page into a serene and productive space.
 </div>
 
+<br />
 🚀 Check out the startpage by visiting this [link](https://habu.netlify.app/), currently hosted on [Netlify](https://app.netlify.com/).
 
 ## ✋ Prerequisites
