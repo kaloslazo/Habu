@@ -1,12 +1,6 @@
 ![banner habu](docs/videos/bannerHabu.gif)
 
-<div align="justify">
-Experience the minimalist design of Neovim's dashboard in your browser with Habu. This startpage for Firefox blends the efficient layout of a developer's environment with the warm and inviting Catppuccin color palette. Simple to set up and fully customizable, Habu transforms your new tab page into a serene and productive space.
-</div>
-
-<br />
-
-🚀 Check out the startpage by visiting this [link](https://habu.netlify.app/), currently hosted on [Netlify](https://app.netlify.com/).
+Experience the minimalist design of Neovim's based dashboard & Catppuccin Mocha palette in your browser with Habu. Simple to set up and fully customizable. 🚀 Take a look at this productive space with this [demo page](https://habu.netlify.app/), currently hosted on [Netlify](https://app.netlify.com/).
 
 ## ✋ Prerequisites
 
@@ -22,11 +16,11 @@ Selfhosted means that you're gonna run this website in your own computer, no ext
 
 1. Install docker, check de [official documentation](https://docs.docker.com/get-docker/).
 2. Run the build for the container (.dockerfile) with the following command `docker build -t app .`.
-3. After image it's created map a port for running as background with `docker run -d -p 8080:80 app`.
+3. After image it's created map a port for running as background with `docker run -d -p 8080:80 --restart=always app`.
 
 If you followed the steps your site must be running at `http://localhost:8080/` (_if you change the port in the step [3] change 8080 for your desired port_). If in the process you got an error or something work unexpected, please submit a PR.
 
-> ⚠️ _If problems of daemon appears, please run as a superuser. If you're using firefox maybe this [extension](https://addons.mozilla.org/es/firefox/addon/custom-new-tab-page/) will interest you_
+> ⚠️ _If problems of daemon appears, please run as a superuser. If you're using firefox maybe this [extension](https://addons.mozilla.org/es/firefox/addon/custom-new-tab-page/) will interest you._
 
 ## 📄 License
 
