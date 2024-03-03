@@ -1,0 +1,16 @@
+{
+  "name": "habu-startup-page",
+  "author": "Kalos Lazo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@catppuccin/tailwindcss": "^0.1.6",
+    "@iconify-json/ri": "^1.1.20",
+    "@iconify/tailwind": "^0.1.4",
+    "tailwindcss": "^3.4.1"
+  },
+  "scripts": {
+    "habu:build_tailwind": "npx tailwindcss -i ./app/styles/index.css -o ./app/dist/output.css --watch"
+  }
+}
