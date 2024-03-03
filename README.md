@@ -2,13 +2,15 @@
 
 Experience the minimalist design of Neovim's based dashboard & Catppuccin Mocha palette in your browser with Habu. Simple to set up and fully customizable. 🚀 Take a look at this productive space with this [demo page](https://habu.netlify.app/), currently hosted on [Netlify](https://app.netlify.com/).
 
-## ✋ Prerequisites
+## ⚙️ Development
 
 If you're planning to improve or delete features you must look at the following guide that explains you how to get started.
 
 1. Install packages, this starter page was created using Tailwindcss and custom plugins for catppuccin palette, so you must install it, do `npm install`.
 2. After dependencies are installed, you can run the script defined in the package.json as `habu:build_tailwind`. This will refresh in real times your changes using a web server.
 3. If you're done, just upload the `app` folder to your hosting or create a image container.
+
+> ⚠️ _For custom data you must modify the json files at app/db with your own information. The application made a get request to Open-Meteo, a free weather API, thanks to the team for the free access!_
 
 ## 🐋 Docker Selfhost
 
