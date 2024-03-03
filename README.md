@@ -5,6 +5,7 @@ Experience the minimalist design of Neovim's dashboard in your browser with Habu
 </div>
 
 <br />
+
 🚀 Check out the startpage by visiting this [link](https://habu.netlify.app/), currently hosted on [Netlify](https://app.netlify.com/).
 
 ## ✋ Prerequisites
