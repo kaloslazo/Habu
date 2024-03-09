@@ -1,13 +1,13 @@
 {
-  "username": "kaloslazo",
-  "social": {
-    "github": "https://www.github.com/kaloslazo",
-    "reddit": "https://www.reddit.com",
-    "twitter": "https://www.twitter.com",
-    "spotify": "https://www.spotify.com",
-    "youtube": "https://www.youtube.com",
-    "linkedin": "https://www.linkedin.com",
-    "email": "https://www.google.com",
-    "news": "https://www.xataka.com"
-  }
+  "nickname": "kaloslazo",
+  "socialLinks": [
+    { "iconClass": "icon-[ri--github-fill]", "url": "https://www.github.com/kaloslazo" },
+    { "iconClass": "icon-[ri--spotify-fill]", "url": "https://www.reddit.com" },
+    { "iconClass": "icon-[ri--twitter-x-fill]", "url": "https://www.twitter.com" },
+    { "iconClass": "icon-[ri--mail-fill]", "url": "https://www.spotify.com" },
+    { "iconClass": "icon-[ri--youtube-fill]", "url": "https://www.youtube.com" },
+    { "iconClass": "icon-[ri--linkedin-box-fill]", "url": "https://www.linkedin.com" },
+    { "iconClass": "icon-[ri--newspaper-fill]", "url": "https://www.mail.google.com" },
+    { "iconClass": "icon-[ri--youtube-fill]", "url": "https://www.xataka.com" }
+  ]
 }
